@@ -1,0 +1,11 @@
+src/__pycache__
+src/dist
+src/build
+src/handshake
+src/dict
+src/hashcat
+
+temp
+
+.env
+.DS_Store
